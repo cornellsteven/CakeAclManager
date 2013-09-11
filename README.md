@@ -1,7 +1,11 @@
-# CakeAclManager for CakePHP 2.x
-## Based on [AclManager](https://github.com/FMCorz/AclManager/) by [FMCorz](https://github.com/FMCorz/), but modified to create more intuitive permissions management.
+CakeAclManager
+==============
+
+### An intuitive ACL Manager for CakePHP 2.x ([AclManager](https://github.com/FMCorz/AclManager/) by [FMCorz](https://github.com/FMCorz/))
 
 This plugins allows you to easily manage your permissions in CakePHP 2.x through the Acl module.
+
+----
 
 Features
 --------
